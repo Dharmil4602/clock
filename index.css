@@ -42,7 +42,7 @@ transform-origin: bottom;
     height: 28%;
     width: 1.3%;
     /* background-color: bisque; */
-    display: none;
+    /* display: none; */
 }
 
 #second
@@ -52,5 +52,5 @@ transform-origin: bottom;
     height: 35%;
     width: 1%;
     /* background-color: rgb(19, 250, 115); */
-    display: none;
+    /* display: none; */
 }
